@@ -1,0 +1,23 @@
+Información curso de 15 apps.
+
+1.-npx create-react-app basicos
+
+2.-npm start
+
+
+###########################
+Extensiones
+
+Bracket Pair Colorizer
+
+simplre react snniper
+
+Reactjs code snippets
+
+React/redux
+
+imr ->import
+
+sfc-> function
+
+#############################
